@@ -2,16 +2,12 @@
   "videos": [
     {
       "id": "v1",
-      "title": "Ako vyspelá je naša civilizácia?",
-      "youtubeUrl": "https://www.youtube.com/watch?v=NLW00JXxGQ0",
+      "title": "Ako sa z dezinfekcie stal liek?",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EQg6pDU81iQ",
       "sources": [
         {
-          "name": "ui",
-          "url": "ui"
-        },
-        {
-          "name": "ihuj",
-          "url": "io"
+          "name": "dasddas",
+          "url": "https://www.youtube.com/watch?v=EQg6pDU81iQ&t=211s"
         }
       ]
     }
