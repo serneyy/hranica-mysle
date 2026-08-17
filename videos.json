@@ -4,7 +4,16 @@
       "id": "v1",
       "title": "Ako vyspelá je naša civilizácia?",
       "youtubeUrl": "https://www.youtube.com/watch?v=NLW00JXxGQ0",
-      "sources": []
+      "sources": [
+        {
+          "name": "ui",
+          "url": "ui"
+        },
+        {
+          "name": "ihuj",
+          "url": "io"
+        }
+      ]
     },
     {
       "id": "v2",
