@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "id": "v1",
+      "title": "Ako vyspelá je naša civilizácia?",
+      "youtubeUrl": "",
+      "sources": []
+    },
+    {
+      "id": "v2",
+      "title": "Ako vzniklo jedno z najbohatších náboženstiev sveta?",
+      "youtubeUrl": "",
+      "sources": []
+    },
+    {
+      "id": "v3",
+      "title": "Čo sa stane keď padneš do čiernej diery?",
+      "youtubeUrl": "",
+      "sources": []
+    },
+    {
+      "id": "v4",
+      "title": "Dubaj nie je taký, ako si myslíte",
+      "youtubeUrl": "",
+      "sources": []
+    },
+    {
+      "id": "v5",
+      "title": "Ako sa Reddit dostal z dna na vrchol",
+      "youtubeUrl": "",
+      "sources": []
+    },
+    {
+      "id": "v6",
+      "title": "Ako kasíno ovládlo streamovanie",
+      "youtubeUrl": "",
+      "sources": []
+    }
+  ]
+}
