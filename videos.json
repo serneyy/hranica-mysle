@@ -1,19 +1,13 @@
 {
   "videos": [
     {
-      "id": "v_msxxd9sg_kx75r",
-      "title": "Nové video",
-      "youtubeUrl": "",
-      "sources": []
-    },
-    {
       "id": "v_msxvke1z_9q10q",
       "title": "Ako sa z dezinfekcie stal liek?",
       "youtubeUrl": "https://youtu.be/EQg6pDU81iQ",
       "sources": [
         {
           "name": "Test",
-          "url": "sdf"
+          "url": "https://www.teenwear.eu/"
         }
       ]
     },
