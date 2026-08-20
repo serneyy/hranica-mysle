@@ -6,8 +6,68 @@
       "youtubeUrl": "https://youtu.be/EQg6pDU81iQ",
       "sources": [
         {
-          "name": "Test",
-          "url": "https://www.teenwear.eu/"
+          "name": "Regenclub",
+          "url": "https://www.regenclub.cz/rozhovor.html"
+        },
+        {
+          "name": "Hlidacipes",
+          "url": "https://hlidacipes.org/cesta-oxidu-chloriciteho-z-dzungle-do-bileho-domu-udajny-lek-na-covid-ot"
+        },
+        {
+          "name": "Vice",
+          "url": "https://www.vice.com/en/article/doctors-are-injecting-bleach-to-treat-covid-in-bolivia/"
+        },
+        {
+          "name": "Ota Blog",
+          "url": "https://otanepily.blogspot.com/"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/groups/246375523596188"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Health/fda-warns-consumers-drinking-mineral-miracle-solution-bleach/story"
+        },
+        {
+          "name": "Paho",
+          "url": "https://www.paho.org/en/news/5-8-2020-paho-warns-against-use-chlorine-products-treatments-covid-19"
+        },
+        {
+          "name": "Zdravotnický Deník",
+          "url": "https://www.zdravotnickydenik.cz/2014/12/alternativni-medicinu-ovladl-boj-proti-parazitum-a-piti-bazenove-dezinfekce/"
+        },
+        {
+          "name": "Zluta Voda",
+          "url": "https://zlutavoda.cz/"
+        },
+        {
+          "name": "Aqua Cds 2",
+          "url": "https://www.cds2-aqua.cz/davkovani/"
+        },
+        {
+          "name": "Medicelos",
+          "url": "https://medicelos.cz/"
+        },
+        {
+          "name": "Facebook 2",
+          "url": "https://www.facebook.com/groups/246375523596188/user/100048998097205/"
+        },
+        {
+          "name": "Business Insider",
+          "url": "https://www.businessinsider.com/toxic-bleach-miracle-andreas-kalcker-charged-argentina-2021-9"
+        },
+        {
+          "name": "Bat Times",
+          "url": "https://www.batimes.com.ar/news/argentina/covid-19-patient-dies-after-judge-permits-private-clinic-to-administer-chlorine-dioxide.phtml"
+        },
+        {
+          "name": "Seznam Zprávy",
+          "url": "https://www.seznamzpravy.cz/clanek/covid-19-leci-pitim-belidla-pak-umiraji-na-otravu-112885"
+        },
+        {
+          "name": "If1",
+          "url": "https://www.lf1.cuni.cz/prof-mudr-daniela-pelclova-csc-emeritni-prednostka-kliniky-pracovniho-lekarstvi"
         }
       ]
     },
