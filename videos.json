@@ -342,7 +342,28 @@
       "id": "v_msxvjft8_axbt6",
       "title": "Navštívil som Open Church a toto som zistil",
       "youtubeUrl": "https://youtu.be/H4wgIZj_0mA",
-      "sources": []
+      "sources": [
+        {
+          "name": "Pagenotfound",
+          "url": "https://pagenotfound.cz/clanek/ve-jmenu-otce-i-syna-i-ducha-svateho-posli-bitcoin"
+        },
+        {
+          "name": "Pagenotfound YT",
+          "url": "https://www.youtube.com/channel/UCQ19dO3HrIxPmwax5idSERg/videos/videos"
+        },
+        {
+          "name": "Milost",
+          "url": "https://www.milost.sk/cirkev/kontakt"
+        },
+        {
+          "name": "Sme",
+          "url": "https://www.sme.sk/komentare/c/zkh-pise-herecka-bartalos-je-obet-sekty-upozornuje-na-nich-aj-sis"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://sk.wikipedia.org/w/index.php?title=Kres%C5%A5ansk%C3%A9_spolo%C4%8Denstvo_Milos%C5%A5&veaction=edit"
+        }
+      ]
     }
   ]
 }
