@@ -1,6 +1,129 @@
 {
   "videos": [
     {
+      "id": "v_mu8wwfau_vp77e",
+      "title": "Prečo je Putin takmer nedotknuteľný?",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wl4fX7-CIts",
+      "sources": [
+        {
+          "name": "blick",
+          "url": "https://www.blick.ch/ausland/nach-angeblichem-ukrainischem-drohnenangriff-das-sind-putins-luxurioese-residenzen-id21557985.html"
+        },
+        {
+          "name": "newsweek",
+          "url": "https://www.newsweek.com/russian-president-vladimir-putins-residences-1689185"
+        },
+        {
+          "name": "focus",
+          "url": "https://www.focus.de/panorama/russland-wo-wohnt-putin-infos-zu-putins-geheimen-wohnorten_028c7fb7-3049-434d-b568-f397e3c1918b.html"
+        },
+        {
+          "name": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/milliardaere-sollen-krim-residenz-fuer-putin-gekauft-haben-a-be729d97-9a7f-4d71-8da6-177bd64799b6"
+        },
+        {
+          "name": "ndtv",
+          "url": "https://www.ndtv.com/world-news/putin-in-india-inside-vladimir-putins-impregnable-aurus-senat-a-fortress-on-wheels-9744219"
+        },
+        {
+          "name": "aurusmotors",
+          "url": "https://aurusmotors.com/armored?lang=en"
+        },
+        {
+          "name": "businesstoday",
+          "url": "https://www.businesstoday.in/latest/trends/photo/gold-armour-and-power-inside-the-car-that-guards-vladimir-putin-504977-2025-12-04/9"
+        },
+        {
+          "name": "theprint",
+          "url": "https://theprint.in/theprint-essential/putin-aurus-senat-limousine/2798426/"
+        },
+        {
+          "name": "deutschlandfunknova",
+          "url": "https://www.deutschlandfunknova.de/beitrag/regierungsflugzeuge-luxus-in-der-luft"
+        },
+        {
+          "name": "economictimes",
+          "url": "https://economictimes.indiatimes.com/news/international/us/us-f-22-and-f-35-escort-putins-flying-kremlin-out-of-alaska-as-he-heads-back-to-russia-after-meeting-trump/articleshow/123331875.cms"
+        },
+        {
+          "name": "flugrevue",
+          "url": "https://www.flugrevue.de/zivil/iljushin-il-96-400m-der-langlebige-vierstrahler-aus-russland/"
+        },
+        {
+          "name": "euronews",
+          "url": "https://www.euronews.com/next/2022/05/11/inside-the-flying-kremlin-what-does-russia-s-doomsday-plane-mean-for-the-war-in-ukraine"
+        },
+        {
+          "name": "merkur",
+          "url": "https://www.merkur.de/politik/ukraine-krieg-putin-atombunker-russland-moskau-kreml-flucht-versteck-samara-91418615.html"
+        },
+        {
+          "name": "edition",
+          "url": "https://edition.cnn.com/2023/07/10/europe/russia-putin-private-train-intl-cmd"
+        },
+        {
+          "name": "dossier",
+          "url": "https://dossier.center/train/"
+        },
+        {
+          "name": "tagesspiegel",
+          "url": "https://www.tagesspiegel.de/internationales/mit-schonheitssalon-und-sportwaggon-so-sieht-der-ganz-spezielle-zug-von-kremlchef-putin-aus-10100173.html"
+        },
+        {
+          "name": "meduza",
+          "url": "https://meduza.io/en/news/2023/02/14/russian-government-has-built-secret-network-of-railroad-lines-and-train-stations-for-putin-s-exclusive-use-according-to-new-report"
+        },
+        {
+          "name": "ndtv 2",
+          "url": "https://www.ndtv.com/world-news/putin-india-visit-live-all-the-presidents-men-inside-fso-russias-shadow-guard-for-vladimir-putin-9748898"
+        },
+        {
+          "name": "themoscowtimes",
+          "url": "https://www.themoscowtimes.com/2024/06/04/bulletproof-vests-on-red-square-kremlin-secretly-beefs-up-putins-personal-security-a85303"
+        },
+        {
+          "name": "t-online",
+          "url": "https://www.t-online.de/nachrichten/ausland/id_100421404/putin-sicherheit-des-kreml-chefs-verschaerft-schutzweste-bei-auftritten.html"
+        },
+        {
+          "name": "cbc",
+          "url": "https://www.cbc.ca/news/world/russia-defector-putin-security-officer-1.6802984"
+        },
+        {
+          "name": "theguardian",
+          "url": "https://www.theguardian.com/world/2022/feb/04/putin-security-elite-siloviki-russia"
+        },
+        {
+          "name": "medium",
+          "url": "https://medium.com/the-geopolitics-report/how-a-door-handle-exposed-putins-three-fake-offices-2856ccb17bd8"
+        },
+        {
+          "name": "merkur 2",
+          "url": "https://www.merkur.de/politik/der-kreml-ist-paranoid-putin-in-angst-vor-moeglichem-putsch-zr-94007707.html"
+        },
+        {
+          "name": "thesaturdaypaper",
+          "url": "https://www.thesaturdaypaper.com.au/news/ir/2022/03/05/inside-vladimir-putins-paranoia/164639880013447"
+        },
+        {
+          "name": "gur.gov",
+          "url": "https://gur.gov.ua/en/content/nachalnyk-voiennoi-rozvidky-ukrainy-stverdzhuie-shcho-putin-vykorystovuie-tr-okh-dubleriv-iakym-zrobyly-kosmetychni-operatsii"
+        },
+        {
+          "name": "reuters",
+          "url": "https://www.reuters.com/world/europe/kremlin-rejects-speculation-that-putin-is-ill-uses-body-doubles-2023-10-24/"
+        },
+        {
+          "name": "kas",
+          "url": "https://www.kas.de/de/web/die-politische-meinung/artikel/detail/-/content/die-angst-regierg"
+        },
+        {
+          "name": "dossier",
+          "url": "https://dossier.center/putinmen-en/"
+        }
+      ]
+    },
+    {
       "id": "v_mtnm3ckn_9rmkw",
       "title": "Ako sa odohral najväčší únos prezidentovho syna?",
       "youtubeUrl": "https://www.youtube.com/watch?v=qO6pcmo7yMI",
