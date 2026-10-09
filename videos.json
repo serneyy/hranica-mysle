@@ -1,6 +1,93 @@
 {
   "videos": [
     {
+      "id": "v_mv0tgh1i_4caa6",
+      "title": "Nové video",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8ZLbcde-Emc",
+      "sources": [
+        {
+          "name": "sme",
+          "url": "https://www.sme.sk/nezaradene/c/vo-volbach-1946-slovenski-demokrati-porazili-komunistov-na-hlavu"
+        },
+        {
+          "name": "teraz",
+          "url": "https://www.teraz.sk/slovensko/volby-v-roku-1946-historik-demokrati/965615-clanok.html"
+        },
+        {
+          "name": "teraz 2",
+          "url": "https://www.teraz.sk/slovensko/od-vyhlasenia-programu-novej-ceskoslov/457799-clanok.html"
+        },
+        {
+          "name": "vtedy",
+          "url": "https://www.vtedy.sk/kosice-kosicky-vladny-program-prijatie-1945"
+        },
+        {
+          "name": "wki",
+          "url": "https://sk.wikipedia.org/wiki/Febru%C3%A1rov%C3%BD_prevrat"
+        },
+        {
+          "name": "upn",
+          "url": "https://www.upn.gov.sk/sk/50-roky/"
+        },
+        {
+          "name": "upn 2",
+          "url": "https://www.upn.gov.sk/data/files/4-2016-SK-p-procesy.pdf"
+        },
+        {
+          "name": "upn 3",
+          "url": "https://www.upn.gov.sk/sk/vyvlastnovanie--vystahovanie-a-nasilna-kolektivizacia/"
+        },
+        {
+          "name": "ustrcr",
+          "url": "https://www.ustrcr.cz/wp-content/uploads/2017/10/Kazdodenni-zivot_pdf.pdf"
+        },
+        {
+          "name": "upn 4",
+          "url": "https://www.upn.gov.sk/sk/uteky-za-hranice/"
+        },
+        {
+          "name": "postoj",
+          "url": "https://www.postoj.sk/170813/mohlo-ist-ceskoslovensko-nesocialistickou-cestou"
+        },
+        {
+          "name": "nber",
+          "url": "https://www.nber.org/system/files/chapters/c6017/c6017.pdf"
+        },
+        {
+          "name": "dennikn",
+          "url": "https://dennikn.sk/103169/bol-to-socializmus-ci-komunizmus-totalita/"
+        },
+        {
+          "name": "sme 2",
+          "url": "https://www.sme.sk/historicka-revue/c/marshallov-plan-2"
+        },
+        {
+          "name": "upol",
+          "url": "https://library.upol.cz/arl-upol/cs/csg/?key=50415237672&repo=upolrepo"
+        },
+        {
+          "name": "ustrcr 2",
+          "url": "https://www.ustrcr.cz/uvod/skupina-vyzkumu/slezinger-jaroslav-29-4-1911/"
+        },
+        {
+          "name": "ceskenoviny",
+          "url": "https://www.ceskenoviny.cz/zpravy/708333"
+        },
+        {
+          "name": "forum24",
+          "url": "https://www.forum24.cz/batovske-imperium-z-vysky-v-mrakodrapu-s-vyhlidkou-meli-urednici-klimatizaci-a-stoly-bez-supliku"
+        },
+        {
+          "name": "ceskatelevize",
+          "url": "https://ct24.ceskatelevize.cz/clanek/regiony/renovuje-se-unikatni-batuv-vytah-ve-zlinskem-mrakodrapu-360984"
+        },
+        {
+          "name": "zlinsky denik",
+          "url": "https://zlinsky.denik.cz/zpravy-region/batuv-vytah-legenda-a-skutecnost20110424/"
+        }
+      ]
+    },
+    {
       "id": "v_mu8wwfau_vp77e",
       "title": "Prečo je Putin takmer nedotknuteľný?",
       "youtubeUrl": "https://www.youtube.com/watch?v=wl4fX7-CIts",
